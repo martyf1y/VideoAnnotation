@@ -1,3 +1,8 @@
+This application allows you to simple make text annotations to HQ videos. It is more of a concept than a fully functioning tool so there may be a few bugs. The code uses an Haddon called ofxAVFVideoPlayer but has been modified to include certain functions. 
+
+It includes things like autosaving every minute and slowing down the speed of video. 
+
+How it works: 
 
 - The program will find the files in the movies folder and allow you to select one.
 - Make sure to choose a video.
