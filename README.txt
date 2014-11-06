@@ -14,3 +14,4 @@
 - Press ESC to exit, you will be asked if you want to save the annotations as a txt file. If there was a txt file already there it will override it.
 
 - If you find any problems or have improved it in some way please send me a message with the code to mjmartin.work@gmail.com.
+
