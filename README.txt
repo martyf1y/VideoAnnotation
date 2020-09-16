@@ -1,4 +1,4 @@
-This application allows you to simple make text annotations to HQ videos. It is more of a concept than a fully functioning tool so there may be a few bugs. The code uses an Haddon called ofxAVFVideoPlayer but has been modified to include certain functions. 
+This application allows you to simple make text annotations to HQ videos. It is more of a concept than a fully functioning tool so there may be a few bugs. The code uses an addon called ofxAVFVideoPlayer but has been modified to include certain functions. 
 
 It includes things like autosaving every minute and slowing down the speed of video. 
 
